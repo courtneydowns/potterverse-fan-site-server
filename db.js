@@ -3,13 +3,15 @@ require("dotenv").config();
 
 const sequelize = new Sequelize(process.env.DATABASE_URL, {
   dialect: "postgres",
+  dialectOptions: !process.env.DATABASE_URL.includes("localhost")
+    ? {
+        ssl: {
+          require: true,
+          rejectUnauthorized: false, // fixing unhandled rejection
+        },
+      }
+    : {},
 });
-// dialectOptions: {
-// 	ssl: {
-// 		require: true,
-// 		rejectUnauthorized: false,
-// 	},
-// },
 
 sequelize
   .authenticate()
