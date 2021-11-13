@@ -1,0 +1,741 @@
+[
+  {
+    "name": "Aconite",
+    "alternative_name": "Monkshood, Wolfsbane",
+    "used_in": "Wolfsbane Potion, Wideye Potion",
+    "endemic_to": "Worldwide (formerly), Scotland",
+    "natural_environment": "Wild places",
+    "sentience": "Non-sentient",
+    "stem": "Green in color",
+    "leaves": "Dark green",
+    "flowers": "Purple",
+    "distinction": "Poisonous",
+    "usage": "Flowers used in Potion-making, Herbology",
+    "status": "Extant",
+    "appearances": "Harry Potter and the Philosopher's Stone (first mentioned), Harry Potter and the Philosopher's Stone (film)"
+  },
+  {
+    "name": "Acromantula Venom",
+    "properties": "Venomous",
+    "physical_characteristics": "Green or black in color",
+    "used_in": "Armadillo Bile Mixture",
+    "appearances": "Harry Potter and the Goblet of Fire (first appearance), Harry Potter and the Half-Blood Prince, Harry Potter and the Half-Blood Prince (film), Fantastic Beasts and Where to Find Them (film)"
+  },
+  {
+    "name": "Adder's Fork",
+    "usage": "Potion-making",
+    "appearances": "Harry Potter and the Prisoner of Azkaban (film) (first mentioned)"
+  },
+  {
+    "name": "African Sea Salt",
+    "used_in": "Draught of the Living Death",
+    "usage": "Potion-making",
+    "appearances": "Harry Potter and the Half-Blood Prince (film), (first mentioned)"
+  },
+  {
+    "name": "Agrippa",
+    "usage": "Potion-making",
+    "appearances": "Harry Potter and the Philosopher's Stone (film) (first appearance)"
+  },
+  {
+    "name": "Alihotsy",
+    "alternative_name": "Hyena Tree",
+    "sentience": "Non-sentient",
+    "stem": "Pink",
+    "leaves": "Green and red in color",
+    "status": "Extant",
+    "used_in": "The Laughing Potion, which induces hysteria and uncontrollable laugher",
+    "usage": "Potion-making",
+    "appearances": "Fantastic Beasts and Where to Find Them (film) (first mentioned)"
+  },
+  {
+    "name": "Armadillo Bile",
+    "physical_characteristics": "Green in color, Putrid scent",
+    "used_in": "Wit-Sharpening Potion, Armadillo Bile Mixture",
+    "usage": "Potion-making",
+    "appearances": "Harry Potter and the Goblet of Fire (first appearance), Harry Potter and the Half-Blood Prince (film) (mentioned on potion label)"
+  },
+  {
+    "name": "Armotentia",
+    "used_in": "Armadillo Bile Mixture",
+    "usage": "Potion-making",
+    "appearances": "Harry Potter and the Half-Blood Prince (first mentioned)"
+  },
+  {
+    "name": "Arnica",
+    "endemic_to": "North America, Europe",
+    "sentience": "Non-sentient",
+    "flowers": "Large, yellow or orange",
+    "distinction": "Poisonous of large amounts of the plant are eaten, Contact can caused skin irritation",
+    "usage": "Potion-making",
+    "appearances": "Harry Potter and the Half-Blood Prince (film) (mentioned only)"
+  },
+  {
+    "name": "Ashwinder Egg",
+    "taken_from": "Ashwinder",
+    "properties": "Cures ague when swallowed whole",
+    "physical_characteristics": "Bright red in color, Hot and flammable",
+    "used_in": "Felix Felicis, Love Potions",
+    "usage": "Potion-making",
+    "appearances": "Fantastic Beasts and Where to Find Them: The Original Screenplay (first mentioned), Fantastic Beasts and Where to Find Them (film)"
+  },
+  {
+    "name": "Asphodel",
+    "alternative_name": "Royal Staff",
+    "endemic_to": "Worldwide",
+    "sentience": "Non-sentient",
+    "stem": "Dark green in color",
+    "leaves": "Long and slender",
+    "flowers": "White and pointed",
+    "status": "Extant",
+    "used_in": "Draught of the Living Death",
+    "usage": "Flowers used in Potion-making, Herbology",
+    "appearances": "Harry Potter and the Philosopher's Stone (first mentioned), Harry Potter and the Philosopher's Stone (film) (mentioned only)"
+  },
+  {
+    "name": "Avocado",
+    "sentience": "Non-sentient",
+    "status": "Extant",
+    "used_in": "Rat Spleen Mixture",
+    "usage": "Fruit is edible and used in potion making",
+    "appearances": "Harry Potter and the Half-Blood Prince (film) (first mentioned) (official merchandise only)"
+  },
+  {
+    "name": "Bat Spleen",
+    "taken_from": "Bat",
+    "physical_characteristics": "Pink in color",
+    "usedIn": "Swelling Solution",
+    "usage": "Potion-making",
+    "appearances": "Harry Potter and the Philosopher's Stone (first appearance)"
+  },
+  {
+    "name": "Bat Wing",
+    "taken_from": "Bat",
+    "physical_characteristics": "Dark brown in color",
+    "usedIn": "Armadillo Bile Mixture",
+    "usage": "Potion-making",
+    "appearances": "Harry Potter and the Philosopher's Stone (film) (first appearance) (disc 2: special features), Harry Potter and the Half-Blood Prince (film) (mentioned only)"
+  },
+  {
+    "name": "Beetle Eyes",
+    "taken_from": "Beetles",
+    "physical_characteristics": "Black and glittery",
+    "used_in": "Common potion ingredient",
+    "usage": "Potion-making",
+    "appearances": "Harry Potter and the Philosopher's Stone (first appearance), Harry Potter and the Deathly Hallows"
+  },
+  {
+    "name": "Belladonna",
+    "endemic_to": "Europe, North Africa, Western Asia",
+    "sentience": "Non-sentient",
+    "stem": "Green",
+    "leaves": "Green",
+    "flowers": "Dull purple",
+    "distinction": "Purple seeds, Highly poisonous",
+    "status": "Extant",
+    "usage": "Potion-making, herbology, Cosmetics and medicine (Middle Ages)",
+    "appearances": "Harry Potter and the Goblet of Fire (first appearance)"
+  },
+  {
+    "name": "Betony",
+    "endemic_to": "Europe, Asia, Australia, and America",
+    "leaves": "Opposite and triangular, long with serrate margins",
+    "used_in": "Treatment of mad dog bites",
+    "usage": "Medicine",
+    "appearances": "Harry Potter and the Goblet of Fire (film) (mentioned on book)"
+  },
+  {
+    "name": "Bezoar",
+    "taken_from": "A goat's stomach",
+    "properties": "Antidote to most poisons when swallowed whole",
+    "physical_characteristics": "Resembles a stone",
+    "used_in": "Antidote to common poisons",
+    "usage": "Potion-making",
+    "appearances": "Harry Potter and the Philosopher's Stone (first mentioned), Harry Potter and the Philosopher's Stone (film) (mentioned only), Harry Potter and the Goblet of Fire (first appearance), Harry Potter and the Half-Blood Prince, Harry Potter and the Half-Blood Prince (film)"
+  },
+  {
+    "name": "Bicorn Horn",
+    "taken_from": "Bicorn",
+    "physical_characteristics": "Curly, Brown in color",
+    "used_in": "Polyjuice Potion, Pepperup Potion",
+    "usage": "Potion-making",
+    "appearances": "Harry Potter and the Chamber of Secrets (first appearance), Harry Potter and the Half-Blood Prince (film) (mentioned only"
+  },
+  {
+    "name": "Billywig Sting",
+    "taken_from": "Billywigs",
+    "properties": "Makes people float",
+    "physical_characteristics": "Blue in color",
+    "used_in": "Antidote to Uncommon Poisons, Hair-Raising Potion, Wideye Potion",
+    "usage": "Potion-making",
+    "appearances": "Fantastic Beats and Where to Find Them (film) (first mentioned)"
+  },
+  {
+    "name": "Blind-worm's Sting",
+    "taken_from": "Blind-worm",
+    "usage": "Potion-making",
+    "appearances": "Harry Potter and the Prisoner of Azkaban (film) (mentioned only)"
+  },
+  {
+    "name": "Boomslang Skin",
+    "taken_from": "Boomslang",
+    "physical_characteristics": "Green or brown in color",
+    "used_in": "Polyjuice Potion, Beautification Potion",
+    "usage": "Potion-making",
+    "appearances": "Harry Potter and the Chamber of Secrets (first mentioned), Harry Potter and the Chamber of Secrets (film) (mentioned only), Harry Potter and the Goblet of Fire (mentioned only), Harry Potter and the Goblet of Fire (film) (mentioned only)"
+  },
+  {
+    "name": "Bouncing Bulb",
+    "sentience": "Sentient",
+    "stem": "Purple bulb",
+    "leaves": "Long and green",
+    "distinction": "Locomotive plant",
+    "status": "Extant",
+    "used_in": "Pompion Potion",
+    "usage": "Potion-making, Herbology",
+    "appearances": "Harry Potter and the Goblet of Fire (first appearance), Harry Potter and the Order of the Phoenix"
+  },
+  {
+    "name": "Bouncing Spider Juice",
+    "taken_from": "Bouncing spider",
+    "usage": "Potion-making",
+    "appearances": "Harry Potter and the Order of the Phoenix (film)"
+  },
+  {
+    "name": "Bubotuber Pus",
+    "taken_from": "Bubotuber seedlings",
+    "properties": "Cures acne and pimples, causes painful boils when undiluted",
+    "physical_characteristics": "Greenish-yellow color, Thick consistency, Smells strongly of petrol",
+    "used_in": "Acne removal, Fake protective potions, Healing potion",
+    "usage": "Potion-making",
+    "appearances": "Harry Potter and the Goblet of Fire (first appearance), Harry Potter and the Half-Blood Prince (mentioned only)"
+  },
+  {
+    "name": "Bundimun Secretion",
+    "taken_from": "Bundimun Ooze",
+    "properties": "Highly acidic, Can rot through building structures",
+    "physical_characteristics": "Lime green in color",
+    "preparation": "Diluted",
+    "used_in": "Doxycide, Cleaning products",
+    "usage": "Potion-making",
+    "appearances": "Fantastic Beasts and Where to Find Them (film) (mentioned only)"
+  },
+  {
+    "name": "Cat Hair",
+    "taken_from": "Cats",
+    "physical_characteristics": "Varies in color (depends on fur color)",
+    "preparation": "Plucked from cats",
+    "usage": "Potion-making",
+    "appearances": "Harry Potter and the Chamber of Secrets (first appearance), Harry Potter and the Chamber of Secrets (film)"
+  },
+  {
+    "name": "Caterpillar",
+    "preparation": "Sliced",
+    "used_in": "Shrinking Solution",
+    "usage": "Potion-making",
+    "appearances": "Harry Potter and the Philosopher's Stone (film) (appears on product label), Harry Potter and the Prisoner of Azkaban (first appearance)"
+  },
+  {
+    "name": "Chinese Chomping Cabbage",
+    "endemic_to": "China",
+    "related_to": "Cabbage",
+    "sentience": "Sentient",
+    "leaves": "Green",
+    "distinction": "Capable of eating foods",
+    "used_in": "Skele-Gro",
+    "usage": "Potion-making, Herbology",
+    "status": "Extant",
+    "appearances": "Harry Potter and the Order of the Phoenix (first mentioned)"
+  },
+  {
+    "name": "Cockroach",
+    "skin_color": "Brown",
+    "related_to": "Termites",
+    "mortality": "Mortal",
+    "distinction": "Venomous pests, Omnivorous, Often spread disease",
+    "usage": "Potion-making",
+    "appearances": "Harry Potter and the Order of the Phoenix (first appearance)"
+  },
+  {
+    "name": "Crocodile Heart",
+    "taken_from": "Crocodile",
+    "used_in": "Calming Draught",
+    "usage": "Potion-making",
+    "appearances": "Harry Potter and the Prisoner of Azkaban (first appearance)"
+  },
+  {
+    "name": "Daisy",
+    "endemic_to": "Europe",
+    "sentience": "Non-sentient",
+    "roots": "Brown",
+    "stem": "Green in color",
+    "leaves": "Green in color",
+    "flowers": "White and yellow",
+    "distinction": "Considered weeds, Can thrive in inhospitable conditions and are resistant to bugs and pesticides",
+    "used_in": "Shrinking Solution",
+    "usage": "Potion-making",
+    "appearances": "Harry Potter and the Philosopher's Stone (first mentioned), Harry Potter and the Philosopher's Stone (film) (mentioned only), Harry Potter and the Prisoner of Azkaban (first appearance)"
+  },
+  {
+    "name": "Dittany",
+    "alternative_name": "Burning Bush",
+    "sentience": "Non-sentient",
+    "stem": "Dark green in color",
+    "leaves": "Dark green in color",
+    "distinction": "Sometimes releases flammable vapors",
+    "used_in": "Essence of Dittany",
+    "status": "Extant",
+    "usage": "Potion-making, Healing magic, Wand core, Herbology",
+    "appearances": "Harry Potter and the Philosopher's Stone (first mentioned), Harry Potter and the Half-Blood Prince, Harry Potter and the Deathly Hallows, Harry Potter and the Deathly Hallows: Part 1 (film), Fantastic Beasts and Where to Find Them (film) (mentioned only)"
+  },
+  {
+    "name": "Fairy Wings",
+    "taken_from": "Fairies",
+    "physical_characteristics": "Multicolored or transparent",
+    "preparation": "Ground",
+    "used_in": "Beautification Potion",
+    "usage": "Potion-making",
+    "appearances": "Fantastic Beasts and Where to Find Them (mentioned only)"
+  },
+  {
+    "name": "Fanged Geranium",
+    "sentience": "Sentient",
+    "leaves": "Green in color",
+    "flowers": "Blue or red in color",
+    "distinction": "Fangs used in potions and cooking, Herbology",
+    "status": "Extant",
+    "used_in": "Skele-Gro",
+    "usage": "Potion-making, Herbology, Cooking",
+    "appearances": "Harry Potter and the Order of the Phoenix (first appearance)"
+  },
+  {
+    "name": "Fluxweed",
+    "sentience": "Non-sentient",
+    "stem": "Green in color",
+    "leaves": "Green in color",
+    "flowers": "Purple in color",
+    "used_in": "Polyjuice Potion",
+    "usage": "Potion-making, Herbology, Healing magic",
+    "appearances": "Harry Potter and the Chamber of Secrets (first appearance), Harry Potter and the Chamber of Secrets (film)"
+  },
+  {
+    "name": "Ginger",
+    "endemic_to": "Southeast Asia",
+    "natural_environment": "Warm climates",
+    "sentience": "Non-sentient",
+    "roots": "Ginger root",
+    "stem": "Leafy green",
+    "leaves": "Green",
+    "flowers": "Yellow and purple in color",
+    "distinction": "A highly-flavored spice",
+    "used_in": "Beautification Potion, Wit-Sharpening Potion",
+    "usage": "Potion-making, Herbology, Food and drink, Healing magic",
+    "appearances": "Harry Potter and the Prisoner of Azkaban (first appearance), Harry Potter and the Goblet of Fire, Harry Potter and the Order of the Phoenix (mentioned only), Harry Potter and the Half-Blood Prince (film), Harry Potter and the Deathly Hallows (mentioned only)"
+  },
+  {
+    "name": "Griffin Claw",
+    "taken_from": "Griffin",
+    "physical_characteristics": "Black in color",
+    "preparation": "Powdered",
+    "used_in": "Strengthening Solution",
+    "usage": "Potion-making",
+    "appearances": "Harry Potter and the Order of the Phoenix (first mentioned)"
+  },
+  {
+    "name": "Gillyweed",
+    "endemic_to": "Mediterranean Sea",
+    "natural_environment": "Salt water",
+    "sentience": "Non-sentient",
+    "roots": "Green in color",
+    "leaves": "Green in color",
+    "distinction": "Grey-green in color, slimy, resembles rat tails",
+    "usage": "To help humans breathe underwater, Potion-making, Herbology",
+    "Affiliation": "Water",
+    "status": "Extant",
+    "appearances": "Harry Potter and the Goblet of Fire (fire appearance), Harry Potter and the Goblet of Fire (film)"
+  },
+  {
+    "name": "Gurdyroot",
+    "sentience": "Non-sentient",
+    "distinction": "Resembles a green onion, Bogey-like taste",
+    "usage": "Wards off Gulping Plimpies (possibly; according to Luna Lovegood), Extract of Gurdyroot is used as a potion ingredient in the Love Potion Antidote"
+  },
+  {
+    "name": "Horned Slug",
+    "related_to": "Slug",
+    "mortality": "Mortal",
+    "distinction": "Black in color, Horned",
+    "used_in": "Boil-Cure Potion",
+    "status": "Extant",
+    "usage": "Potion-making",
+    "appearances": "Harry Potter and the Philosopher's Stone (first appearance)"
+  },
+  {
+    "name": "Jobberknoll Feather",
+    "taken_from": "Jobberknolls",
+    "physical_characteristics": "Blue in color",
+    "used_in": "Truth serums, Memory potions",
+    "usage": "Potion-making",
+    "appearances": "Harry Potter and the Half-Blood Prince (film) (mentioned on official potion merchandise bottle label), Fantastic Beasts and Where to Find Them (film) (first mentioned)"
+  },
+  {
+    "name": "Kneazle Hair",
+    "taken_from": "Kneazles",
+    "used_in": "Rat Spleen Mixture",
+    "usage": "Potion-making",
+    "appearances": "Harry Potter and the Half-Blood Prince (first mentioned) (official merchandise only)"
+  },
+  {
+    "name": "Knotgrass",
+    "endemic_to": "Scotland",
+    "sentience": "Non-sentient",
+    "stem": "Green in color",
+    "leaves": "Green in color",
+    "used_in": "Polyjuice Potion",
+    "usage": "Potion-making, Herbology, Knotgrass Mead",
+    "appearances": "Harry Potter and the Chamber of Secrets (first appearance), Harry Potter and the Chamber of Secrets (film), Harry Potter and the Goblet of Fire (mentioned only), Harry Potter and the Order of the Phoenix, Fantastic Beasts and Where to Find Them (film) (mentioned in a newspaper"
+  },
+  {
+    "name": "Lacewing Fly",
+    "eye_color": "Green",
+    "skin_color": "Green",
+    "related_to": "Fly",
+    "alternative_name": "Lacewing",
+    "used_in": "Polyjuice Potion",
+    "mortality": "Mortal",
+    "distinction": "Laced wings",
+    "status": "Extant",
+    "usage": "Potion-making",
+    "appearances": "Harry Potter and the Chamber of Secrets (first appearance), Harry Potter and the Chamber of Secrets (film), Harry Potter and the Goblet of Fire (mentioned only), Harry Potter and the Goblet of Fire (film) (mentioned only)"
+  },
+  {
+    "name": "Leech",
+    "skin_color": "Black",
+    "alternative_name": "Hirudo medicinnalis (medicinal leech)",
+    "used_in": "Polyjuice Potion, Shrinking Solution (dash of leech juice)",
+    "mortality": "Mortal",
+    "distinction": "Suck blood, Resemble slugs",
+    "status": "Extant",
+    "usage": "Potion-making",
+    "appearances": "Harry Potter and the Chamber of Secrets (first appearance), Harry Potter and the Chamber of Secrets (film), Harry Potter and the Prisoner of Azkaban"
+  },
+  {
+    "name": "Lovage",
+    "endemic_to": "Europe and Asia",
+    "sentience": "Non-sentient",
+    "stem": "Green",
+    "leaves": "Green",
+    "distinction": "Similar to celery",
+    "used_in": "Confusing Concoction, Befuddlement Draught",
+    "usage": "Potion-making, Cooking, Herbal medicine",
+    "appearances": "Harry Potter and the Order of the Phoenix (first mentioned)"
+  },
+  {
+    "name": "Mandrake",
+    "alternative_name": "Mandragora",
+    "natural_environment": "Soil",
+    "sentience": "Sentient",
+    "roots": "Humanoid in shape and behavior, Brown in color",
+    "stem": "Green in color",
+    "distinction": "Cries are fatal to anyone who hears it (seedlings' cries only cause unconsciousness",
+    "used_in": "Mandrake Restorative Draught",
+    "usage": "Potion-making, Herbology, Weapon",
+    "appearances": "Harry Potter and the Chamber of Secrets (first appearance), Harry Potter and the Chamber of Secrets (film), Harry Potter and the Goblet of Fire (mentioned only), Harry Potter and the Deathly Hallows, Fantastic Beasts and Where to Find Them (film)"
+  },
+  {
+    "name": "Mistletoe Berry",
+    "taken_from": "Mistletoe",
+    "properties": "Poisonous",
+    "physical_characteristics": "Small, white, waxy",
+    "preparation": "Crushed",
+    "used_in": "Antidote to Common Poisons",
+    "usage": "Potion-making"
+  },
+  {
+    "name": "Moondew",
+    "endemic_to": "Scotland, Ireland (possibly)",
+    "sentience": "Non-sentient",
+    "stem": "Green",
+    "flowers": "White",
+    "used_in": "Draught of Living Death",
+    "status": "Extant",
+    "usage": "Potion-making, Cooking"
+  },
+  {
+    "taken_from": "Morning Dew",
+    "Also Known As": "Dew",
+    "physical_characteristics": "Colorless",
+    "preparation": "Collected in the morning",
+    "used_in": "Beautification Potion",
+    "usage": "Potion-making"
+  },
+  {
+    "name": "Murtlap Tentacle",
+    "taken_from": "Murtlap",
+    "properties": "Healing properties, heighten resistance to dark charms, overdose causes purple ear hair",
+    "preparation": "Strained and pickled",
+    "used_in": "Murtlap Essence, Felix Felicis",
+    "usage": "Potion-making, Healing"
+  },
+  {
+    "name": "Nagini's Venom",
+    "taken_from": "Nagini",
+    "properties": "Highly poisonous and corrosive",
+    "preparation": "Milked",
+    "used_in": "Rudimentary Body Potion"
+  },
+  {
+    "name": "Nettle",
+    "alternative_name": "Stinging nettle, Urtica diacia, burn hazel",
+    "sentience": "Non-sentient",
+    "stem": "Green",
+    "leaves": "Green, covered in stinging hairs",
+    "distinction": "Improves glossiness of hair",
+    "usage": "Cooking, Potion-making, Herbology",
+    "status": "Extant",
+    "appearances": "Harry Potter and the Philosopher's Stone (first appearance), Harry Potter and the Philosopher's Stone (film) (mentioned only) (DVD 2 (Special Features)), Harry Potter and the Order of the Phoenix, Harry Potter and the Half-Blood Prince"
+  },
+  {
+    "name": "Newt",
+    "eye_color": "Various",
+    "skin_color": "Various",
+    "related_to": "Double-ended newt, salamander, frog, toad",
+    "native_to": "Northern hemisphere",
+    "Height of Average Adult": "Various",
+    "Length of Average Adult": "Various",
+    "mortality": "Mortal",
+    "distinction": "Closely resemble salamanders and lizards",
+    "status": "Extant",
+    "usage": "Potion-making",
+    "appearances": "Chamber of Secrets (film) (mentioned only), Harry Potter and the Prisoner of Azkaban (first mentioned), Harry Potter and the Prisoner of Azkaban (film) (mentioned only), Harry Potter and the Goblet of Fire (mentioned only), Harry Potter and the Order of hte Phoenix"
+  },
+  {
+    "name": "Occamy Egg",
+    "properties": "Provides lustre, nutritious for the hair",
+    "physical_characteristics": "Shell is pure silver",
+    "used_in": "Felix Felicis",
+    "usage": "Potion-making",
+    "appearances": "Fantastic Beasts and Where to Find Them (The Original Screenplay, Fantastic Beasts and Where to Find Them (film) (first mentioned)"
+  },
+  {
+    "name": "Peppermint",
+    "sentience": "Non-sentient",
+    "stem": "Green",
+    "leaves": "Green",
+    "distinction": "Minty scent",
+    "usage": "Potion-making, Peppermint Toads, Peppermint Humbugs, to flavor food, flavor of Bertie Bott's Every Flavor Bean"
+  },
+  {
+    "name": "Porcupine Quill",
+    "taken_from": "Porcupines",
+    "physical_characteristics": "long and black",
+    "preparation": "Powdered",
+    "used_in": "Cure for Boils, Elixir to Induce Euphoria, Hair-Raising Potion, Draught of Peace",
+    "usage": "Potion-making",
+    "appearances": "Harry Potter and the Philosopher's Stone (first appearance)"
+  },
+  {
+    "name": "Puffer-fish",
+    "eye_color": "Black",
+    "skin_color": "Brown",
+    "related_to": "Fish",
+    "mortality": "Mortal",
+    "distinction": "Inflates body for defense",
+    "status": "Extant",
+    "used_in": "Skele-Gro",
+    "usage": "Potion-making",
+    "appearances": "Harry Potter and the Chamber of Secrets (first mentioned)"
+  },
+  {
+    "name": "Puffer-fish eyes",
+    "taken_from": "Pufferfish",
+    "physical_characteristics": "Black in color",
+    "preparation": "Crushed",
+    "used_in": "Swelling Solution",
+    "usage": "Potion-making",
+    "appearances": "Harry Potter and the Chamber of Secrets (first appearance"
+  },
+  {
+    "name": "Rat spleen",
+    "taken_from": "Rats",
+    "physical_characteristics": "Purple",
+    "preparation": "Liquefied",
+    "used_in": "Shrinking Solution",
+    "usage": "Potion-making",
+    "appearances": "Harry Potter and the Prisoner of Azkaban (first appearance)"
+  },
+  {
+    "name": "Rat tail",
+    "taken_from": "Rats",
+    "physical_characteristics": "Resemble worms",
+    "used_in": "Hair-Raising Potion",
+    "usage": "Potion-making",
+    "appearances": "Harry Potter and the Chamber of Secrets (first mentioned), Harry Potter and the Half-Blood Prince (film) (first appearance)"
+  },
+  {
+    "name": "Sage",
+    "sentience": "Non-sentient",
+    "stem": "Gree",
+    "leaves": "Green",
+    "status": "Extant",
+    "usage": "Star gazing, potion-making",
+    "appearances": "Harry Potter and the Order of the Phoenix (first appearance)"
+  },
+  {
+    "name": "Salamander Blood",
+    "taken_from": "Fire Dwelling Salamander",
+    "properties": "Heals and rejuvenates",
+    "physical_characteristics": "Scarlet red",
+    "preparation": "Shaken",
+    "used_in": "Strengthening Solution",
+    "usage": "Potion-making",
+    "appearances": "Harry Potter and the Order of the Phoenix (first appearance)"
+  },
+  {
+    "name": "Scarab Beetle",
+    "related_to": "Beetle",
+    "skin_color": "Grey, Brown",
+    "native_to": "Egypt",
+    "Height of Average Adult": "Very small",
+    "mortality": "Mortal",
+    "status": "Extant",
+    "used_in": "Skele-gro, Wit-Sharpening Potion",
+    "usage": "Potion-making",
+    "appearances": "Harry Potter an the Goblet of Fire (first appearance)"
+  },
+  {
+    "name": "Scurvy Grass",
+    "endemic_to": "Northern Europe and Great Britain",
+    "natural_environment": "Coastal",
+    "sentience": "Non-sentient",
+    "stem": "Green",
+    "leaves": "Green",
+    "flowers": "White",
+    "status": "Extant",
+    "used_in": "Befuddlement Draught",
+    "usage": "Potion-making, medicine",
+    "appearances": "Harry Potter and the Goblet for Fire (first mentioned)"
+  },
+  {
+    "name": "Shrake Spine",
+    "taken_from": "Shrake",
+    "physical_characteristics": "Gray",
+    "preparation": "Pickled",
+    "used_in": "Cure for Boils, Rat Spleen Mixture",
+    "appearances": "Harry Potter and the Half-Blood Prince (film) (mentioned only) (official merchandise only, referred to as 'Shrake Spines), Fantastic Beasts and Where to Find Them (first appearance"
+  },
+  {
+    "name": "Shrivelfig",
+    "endemic_to": "Abyssinia",
+    "sentience": "Non-sentient",
+    "roots": "'Aggressive', allowing the plant to survive in any environment",
+    "leaves": "Deciduous, shed Autumn",
+    "flowers": "Purple",
+    "Fruits": "Purple",
+    "distinction": "Liquid in plant is purple",
+    "usage": "Herbology, Potion-making",
+    "status": "Extant",
+    "used_in": "Shrinking Solution, Elixir to Induce Euphoria",
+    "appearances": "Harry Potter and the Chamber of Secrets, Harry Potter and the Prisoner of Azkaban"
+  },
+  {
+    "name": "Snake Fang",
+    "taken_from": "Non-venomous snake",
+    "physical_characteristics": "White",
+    "preparation": "Powdered",
+    "used_in": "Cure for Boils",
+    "usage": "Potion-making",
+    "appearances": "Harry Potter and the Philosopher's Stone (first appearance)"
+  },
+  {
+    "name": "Sneezewort",
+    "endemic_to": "Europe, North America",
+    "sentience": "Non-sentient",
+    "stem": "Green",
+    "leaves": "Green, covered in stinging hairs",
+    "flowers": "Snowy White",
+    "distinction": "Poisonous to cattle, sheep and birds",
+    "status": "Extant",
+    "used_in": "Befuddlement Draught",
+    "usage": "Potion-making",
+    "appearances": "Harry Potter and the Order of the Phoenix (first mentioned)"
+  },
+  {
+    "name": "Sophorous Bean",
+    "taken_from": "Sophorous Plant",
+    "properties": "Juice will remove drinker's memory, induces sleep",
+    "physical_characteristics": "Pearly-white, difficult to cut, juice is silver colored",
+    "preparation": "Cut or crushed",
+    "used_in": "Elixir to Induce Euphoria, Draught of Living Death",
+    "appearances": "Harry Potter an the Half-Blood Prince, Harry Potter and the Half-Blood Prince (film)"
+  },
+  {
+    "name": "Streeler Shell",
+    "taken_from": "Streelers",
+    "physical_characteristics": "Change color every hour",
+    "preparation": "Must be handed with thick protective gloves",
+    "used_in": "Doxycide",
+    "usage": "Cleaning supplies",
+    "appearances": "Fantastic Beasts: The Crime of Grindelwald - The Original Screenplay, Fantastic Beasts: The Crime of Grindelwald (film)"
+  },
+  {
+    "name": "Syrup of Hellebore",
+    "taken_from": "Hellebore",
+    "properties": "Poisonous (possibly)",
+    "physical_characteristics": "Blue",
+    "used_in": "Draught of Peace",
+    "appearances": "Harry Potter and the Order of the Phoenix (first appearance), Harry Potter and the Half-Blood Prince (film)"
+  },
+  {
+    "name": "Unicorn Blood",
+    "taken_from": "Unicorns",
+    "properties": "Keeps the drinker alive at the cost of a cursed life",
+    "physical_characteristics": "Silver color, thick consistency",
+    "used_in": "Rudimentary Body Potion",
+    "usage": "Potion-making",
+    "appearances": "Harry Potter and the Philosopher's Stones (first appearance), Harry Potter and the Philosopher's Stone (film)"
+  },
+  {
+    "name": "Unicorn Hair Tail",
+    "taken_from": "Unicorns",
+    "properties": "Can bind bandages",
+    "physical_characteristics": "Silver in color",
+    "used_in": "Beautification Potion, wand cores",
+    "usage": "Potion-making",
+    "appearances": "Harry Potter and the the Philosopher' Stone (first appearance), Harry Potter and the Prisoner of Azkaban (mentioned only), Harry Potter and the Goblet of Fire (mentioned only), Harry Potter and the Half-Blood Prince, Harry Potter and the Deathly Hallows (mentioned only)"
+  },
+  {
+    "name": "Valerian",
+    "endemic_to": "Europe and Asia",
+    "sentience": "Non-sentient",
+    "stem": "Green",
+    "leaves": "Green, covered in stinging hairs",
+    "flowers": "Pink",
+    "used_in": "Sprigs used in: treacle fudge, Forgetfullness Potion, Sleeping Draught; Root used in: Draught of Peace, Draught of the Living Death, extract used in medicine -- sedative, relieves insomnia",
+    "status": "Extant",
+    "usage": "Potion-making, Healing"
+  },
+  {
+    "name": "Wartcap Powder",
+    "properties": "Give skin hard crust",
+    "physical_characteristics": "Beige",
+    "preparation": "Powdered",
+    "used_in": "Fire Protection Spell",
+    "usage": "Potion-making",
+    "appearances": "Harry Potter and the Order of the Phoenix (first appearance, Harry Potter and the Deathly Hallows (mentioned only)"
+  },
+  {
+    "name": "Wormwood",
+    "endemic_to": "Canada, United States of America",
+    "natural_environment": "Eurasia, North America",
+    "sentience": "Non-sentient",
+    "roots": "Fibrous",
+    "stem": "Silvery green",
+    "leaves": "Green",
+    "distinction": "Very bitter taste",
+    "status": "Extant",
+    "used_in": "Draught of Living Death, Elixir to Induce Euphoria, Shrinking Solution",
+    "usage": "Potion-making, Medicine",
+    "appearances": "Harry Potter and the Philosopher's Stone (mentioned only), Harry Potter and the Philosopher's Stone (film) (mentioned only)"
+  }
+]

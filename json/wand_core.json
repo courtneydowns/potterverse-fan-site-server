@@ -1,0 +1,82 @@
+[
+  {
+    "core_material": "Dragon Heartstring",
+    "used_by": "Garrick Ollivander, Gregorovitch",
+    "known_characteristics": "Powerful and easy to learn spells, though could easily be committed to another"
+  },
+  {
+    "core_material": "Phoenix Feather",
+    "used_by": "Garrick Ollivander",
+    "known_characteristics": "Learned most varied magic, hard to be chosen"
+  },
+  {
+    "core_material": "Unicorn Tail Hair",
+    "used_by": "Garrick Ollivander",
+    "known_characteristics": "Consistent magic, bonded strongly to fist user"
+  },
+  {
+    "core_material": "Veela Hair",
+    "used_by": "N/A",
+    "known_characteristics": "Temperamental"
+  },
+  {
+    "core_material": "Kneazle Whisker",
+    "used_by": "N/A",
+    "known_characteristics": "Not very powerful"
+  },
+  {
+    "core_material": "Kelpie Hair",
+    "used_by": "Gervaise Ollivander",
+    "known_characteristics": "Easily obtainable, frequently used in the past"
+  },
+  {
+    "core_material": "Thestral Hair",
+    "used_by": "Antioch Peverell",
+    "known_characteristics": "Not easily seen"
+  },
+  {
+    "core_material": "Coral",
+    "used_by": "Gregorovitch",
+    "known_characteristics": "Unknown"
+  },
+  {
+    "core_material": "Thunderbird Tail Feather",
+    "used_by": "Shikoba Wolfe",
+    "known_characteristics": "Powerful, but difficult to master, particularly prized by Transfigurers. Could sense danger and cast curses on their one."
+  },
+  {
+    "core_material": "Wampus Cat Hair",
+    "used_by": "Johannes Jonker, Isolt Sayre, James Steward",
+    "known_characteristics": "Unknown"
+  },
+  {
+    "core_material": "White River Monster Spine",
+    "used_by": "Thiago Quintana",
+    "known_characteristics": "Produced spells of force and elegance"
+  },
+  {
+    "core_material": "Rougarou Hair",
+    "used_by": "Violette Beauvais",
+    "known_characteristics": "Rumored to have had an affinity for dark magic, although suitable for use by non-dark wizards and witches as well,"
+  },
+  {
+    "core_material": "Horned Serpent Horn",
+    "used_by": "Isolt Sayre, James Steward",
+    "known_characteristics": "Exceptionally powerful and sensitive to Parseltongue. Could warn its owner of danger by emitting a low musical tone"
+  },
+  {
+    "core_material": "Snallygaster Heartstring",
+    "used_by": "Isolt Sayre, James Steward",
+    "known_characteristics": "Unknown"
+  },
+  {
+    "core_material": "Basilisk Horn",
+    "used_by": "Salazar Slytherin",
+    "known_characteristics": "Unknown, presumably had an affinity for the Dark Arts"
+  },
+  {
+    "core_material": "Curupira Hair",
+    "used_by": "N/A",
+    "known_characteristics": "Unstable, had an affinity for powerful yet unpredictable wizards"
+  }
+]
