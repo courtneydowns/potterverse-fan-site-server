@@ -3,7 +3,6 @@ const { User } = require("../models");
 let router = express.Router();
 const jwt = require("jsonwebtoken");
 const bcrypt = require("bcryptjs");
-const validateSession = require("../middleware/validateSession");
 
 /*GET USERS ENDPOINT */
 router.get("/", function (req, res) {
@@ -39,7 +38,6 @@ router.post("/signup", function (req, res) {
 });
 
 /*LOGIN*/
-
 router.post("/", function (req, res) {
   console.log(process.env.JWT_SECRET);
   User.findOne({
@@ -73,7 +71,7 @@ router.post("/", function (req, res) {
     .catch((err) => res.status(500).json({ error: err }));
 });
 
-/*DELETE USER */
+/*DELETE USER (ADMIN) */
 // router.delete("/admin/delete/:id", validateSession, function (req, res) {
 //   if (req.user.isAdmin === "true") {
 //     const query = { where: { id: req.params.id } };

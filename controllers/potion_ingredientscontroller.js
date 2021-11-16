@@ -1,6 +1,5 @@
 let express = require("express");
 let router = express.Router();
-const sequelize = require("../db");
 const { Potion_ingredients, Comment } = require("../models");
 let potion_ingredientsImport = require("../json/potion_ingredients.json");
 

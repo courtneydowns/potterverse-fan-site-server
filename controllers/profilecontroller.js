@@ -6,7 +6,6 @@ const validateSession = require("../middleware/validateSession");
 /*CREATE PROFILE*/
 router.post("/create", validateSession, function (req, res) {
   const profileCreate = {
-    // profileImage: req.body.user.profileImage,
     bio: req.body.profile.bio,
     house: req.body.profile.house,
     favoriteHarryPotterBook: req.body.profile.favoriteHarryPotterBook,

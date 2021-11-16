@@ -1,6 +1,5 @@
 const express = require("express");
 const router = express.Router();
-const sequelize = require("../db");
 const { Spells, Comment } = require("../models");
 let spellsImport = require("../json/spells.json");
 

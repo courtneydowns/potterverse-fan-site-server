@@ -1,6 +1,5 @@
 let express = require("express");
 let router = express.Router();
-const sequelize = require("../db");
 const { Magical_objects, Comment } = require("../models");
 let magical_objectsImport = require("../json/magical_objects.json");
 
