@@ -11,14 +11,11 @@ const Wand_wood = require("./wand_wood");
 const User = require("./user");
 const Profile = require("./profile");
 const Comment = require("./comment");
-const Like = require("./like");
 
 User.hasMany(Comment);
 Comment.belongsTo(User);
 User.hasOne(Profile);
 Profile.belongsTo(User);
-Like.belongsTo(Comment);
-Comment.hasMany(Like);
 Magical_objects.hasMany(Comment);
 Comment.belongsTo(Magical_objects);
 Characters.hasMany(Comment);
@@ -38,7 +35,6 @@ module.exports = {
   User,
   Comment,
   Profile,
-  Like,
   Spells,
   Magical_objects,
   Potions,
